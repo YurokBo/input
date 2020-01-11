@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+input {
+    margin: 5px;
+    width: 250px;
+    height: 40px;
+    font-size: 45px;
+    border-radius: 25px;
+    box-shadow: orange;
+    border: solid blue 2px;
+}
